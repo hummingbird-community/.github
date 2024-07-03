@@ -6,3 +6,5 @@
 </p>  
 
 Hummingbird is a lightweight, flexible modern web application framework. It is built with a modular design and provides a robust set of features to build your next web application.
+
+The Hummingbird Community organisation holds a series of packages written by the Hummingbird developer community. All packages included here involve some integration the server framework.
